@@ -40,6 +40,7 @@ main {
     top: -3px;
     left: -5px;
     width: 100px;
+    cursor: pointer;
 }
 
 .story-pic-just-one {
@@ -94,7 +95,6 @@ main {
     height: 32px;
     border-radius: 50%;
     object-fit: cover;
-    object-position: left;
 }
 
 .rgb-ring-post-top-section {
@@ -165,6 +165,7 @@ main {
 
 .left-icons-post-bottom-section {
     margin-right: 5px;
+    cursor: pointer;
 }
 
 .likes-post-bottom-section,
@@ -176,6 +177,7 @@ main {
 
 .views-post-bottom-section {
     color: gray;
+    cursor: pointer;
 }
 
 
@@ -213,7 +215,7 @@ main {
 
 
 .contacts-section {
-    width: 100%;
+    width: 40%;
     height: 600px;
     background-color: rgb(0, 0, 0);
     display: flex;
