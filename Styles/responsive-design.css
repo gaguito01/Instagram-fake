@@ -52,3 +52,24 @@
     }
 
 }
+
+
+
+@media (max-width: 650px) {
+    body {
+        width: 770px;
+    }
+}
+
+
+
+
+@media (max-width: 413px) {
+    body {
+        width: 770px;
+    }
+
+    .storys {
+        margin-left: -25px;
+    }
+}
